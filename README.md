@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/Ma2Ri2aL" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Ma2Ri2aL-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/mazrizal-abdullah" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ma2Ri2aL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazrizal-abdullah-02745b219/"></a>
+    <a href="https://www.linkedin.com/in/mazrizal-abdullah-02745b219" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ma2Ri2aL-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/mazrizal-abdullah-02745b219"></a>
     <a href="mailto:mazrizal@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Ma2Ri2aL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazrizal@gmail.com"></a>
 </p>
 
